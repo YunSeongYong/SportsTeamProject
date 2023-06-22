@@ -9,7 +9,7 @@ public class Math {
 		//이광호 곱하기
 		
 		//유미홍 나누기
-		
+		System.out.println(10/2);
 		//장명근 나머지
 		
 	}
