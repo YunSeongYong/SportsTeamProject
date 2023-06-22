@@ -6,6 +6,6 @@ public class Main {
 		
 		//윤성용
 
+		System.out.println("유미홍");
 	}
-
 }
