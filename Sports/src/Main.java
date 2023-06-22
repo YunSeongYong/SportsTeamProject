@@ -7,7 +7,7 @@ public class Main {
 		// 장명근
 
 		
-		//윤성용
+		//윤성용 윤성용
 
 		System.out.println("유미홍");
 
