@@ -9,7 +9,7 @@ public class Math {
 		plus(5,7);
 		
 		//정욱진 빼기
-		
+		System.out.println(1-10); //집에서 테스트 중입니다.
 		//이광호 곱하기
 		
 		//유미홍 나누기
